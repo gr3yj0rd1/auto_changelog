@@ -1,0 +1,8 @@
+{
+  "name": "auto_changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gr3yj0rd1/auto_changelog.git",
+  "author": "Jacopo Falcone <127383002+gr3yj0rd1@users.noreply.github.com>",
+  "license": "MIT"
+}
