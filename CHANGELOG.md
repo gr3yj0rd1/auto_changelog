@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.1.0...v1.1.1) (2025-01-03)
+
+
+### Bug Fixes
+
+* script error ([d0b29e2](https://github.com/gr3yj0rd1/auto_changelog/commit/d0b29e2fe6ca0e0148d834e80ef288147cf319e3))
+
 ## 1.1.0 (2024-12-31)
 
 
